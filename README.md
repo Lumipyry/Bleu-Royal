@@ -1,6 +1,7 @@
 # Bleu-Royal
 
 KDE Plasma väriteema - Thème de coulour pour KDE Plasma - KDE Plasma colour scheme
+![Bleu-royal](https://user-images.githubusercontent.com/73434605/165279740-92bfcd68-9772-4aa6-a827-13bb8c7f6c8e.png)
 
 
 
